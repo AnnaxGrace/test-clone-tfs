@@ -53,11 +53,7 @@ function App() {
     }
   };
 
-  // const LoginContainer = () => (
-  //   <div>
-  //     <Route path="/" component={Login} />
-  //   </div>
-  // )
+
 
   // const DefaultContainer = () => (
   //   <div>
